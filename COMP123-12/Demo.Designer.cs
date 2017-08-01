@@ -1,6 +1,6 @@
 ﻿namespace COMP123_12
 {
-    partial class Form1
+    partial class Demo
     {
         /// <summary>
         /// Required designer variable.
